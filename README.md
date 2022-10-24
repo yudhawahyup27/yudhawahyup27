@@ -2,26 +2,18 @@
 
 Hallo Nama Saya Yudha Wahyu Pratama<br>
 Saya Lulusan Politeknik Negeri Malang <br>
-Frontend Dev, UI UX Dan Devops <br>
+Mobile Dev, UI UX Dan Devops <br>
 Teknologi Dan Aplikasi Yang Saya Gunakan
 <!-- Frontend -->
-<h1> Frontend </h1>
+<h1> Mobile Dev </h1>
 <p float="left">
-<!--Tailwind -->
-<a href="https://tailwindcss.com/" target="_blank" >
-<img src="https://jefrydco.id/_nuxt/img/how-tailwind-css-help-reduce-workload-by-jefrydco.833f9b8.jpg"  height="75" />
-</a>
-<!--Botstrap-->
-<a href="https://getbootstrap.com/" target="_blank" >
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQvo7DiCYq0KDfGNiQFlNiaozrX5Ze03TbQ&usqp=CAU"  height="75" />
+<!-- Flutter -->
+<a href="https://flutter.dev" target="_blank" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_YKRruUpfUgYR2zFqHvOKuJBC-e8ehGq9rDkhLqsuh1AEHLieqojbi_F84qLmW72k8MI&usqp=CAU"  height="75" />
 </a>
 <!--Kotlin-->
  <a href="https://developer.android.com/kotlin?gclsrc=ds&gclsrc=ds" target="_blank" >
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSZ44siBChtS1ciJvBStU_hvIUF1d0mzxPjpdI2_CB_UPBSWAxpuFM9AOJJBjRLMNR2s&usqp=CAU"  height="75" />
-</a>
- <!--HTML,CSS Dan Javascript-->
-  <a href="/" target="_blank" >
-<img src="https://www.karyastudio.com/assets/images/blog/20180604105737am.jpg"  height="75" />
 </a>
 </p>
 <!-- Devops Atau CloudEnginer -->
