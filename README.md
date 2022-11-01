@@ -7,10 +7,6 @@ Teknologi Dan Aplikasi Yang Saya Gunakan
 <!-- Frontend -->
 <h1> Mobile Dev </h1>
 <p float="left">
-<!-- Flutter -->
-<a href="https://flutter.dev" target="_blank" >
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_YKRruUpfUgYR2zFqHvOKuJBC-e8ehGq9rDkhLqsuh1AEHLieqojbi_F84qLmW72k8MI&usqp=CAU"  height="75" />
-</a>
 <!--Kotlin-->
  <a href="https://developer.android.com/kotlin?gclsrc=ds&gclsrc=ds" target="_blank" >
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSZ44siBChtS1ciJvBStU_hvIUF1d0mzxPjpdI2_CB_UPBSWAxpuFM9AOJJBjRLMNR2s&usqp=CAU"  height="75" />
