@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hallo world,  nama saya Yudha Wahyu Pratama <br>saya lulusan dari Politeknik Negeri Malang<br>Saya adalah seorang Devops / System administrator Linux, UI UX<br>dan Seorang Java Developer
+Hallo world,  nama saya Yudha Wahyu Pratama <br>saya lulusan dari Politeknik Negeri Malang<br>Saya adalah seorang Devops / System administrator Linux, UI UX<br>dan Seorang Android Developer
 
 
 ## 🌐 Socials:
